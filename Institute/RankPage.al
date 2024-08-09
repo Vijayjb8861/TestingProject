@@ -49,7 +49,7 @@ page 50123 StudentRankPage
                 
                 trigger OnAction()
                 begin
-                    
+                    Message('hi');
                 end;
             }
         }
